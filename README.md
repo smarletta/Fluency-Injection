@@ -1,3 +1,5 @@
+#This fork should try to get the library running on NodeJS 4.x
+
 # Fluency Injection
 A TypeScript dependency injection framework for Node.js, inspired by Angular2 dependency injection using decorators.
 
