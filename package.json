@@ -1,10 +1,10 @@
 {
-  "name": "fluency-injection",
-  "version": "1.1.1",
+  "name": "typed-injection",
+  "version": "1.0.0",
   "scripts": {
-    "initialSetup": "npm install && typings install",
-    "prepublish": "gulp",
-    "build": "gulp"
+    "initialSetup": "npm install",
+    "prepublish": "grunt",
+    "build": "grunt"
   },
   "main": "index.js",
   "typings": "index.d.ts",
